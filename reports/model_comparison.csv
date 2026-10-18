@@ -1,0 +1,7 @@
+model,RMSPE,MAPE_%,MAE
+Blend LGBM + XGB,0.1156,8.45,580.6
+XGBoost,0.1161,8.49,584.4
+LightGBM,0.1163,8.51,584.1
+Same day last year,0.1758,12.35,843.5
+Store-weekday avg (last 8 wks),0.2666,20.25,1284.3
+Global mean,0.5773,38.16,2242.2
